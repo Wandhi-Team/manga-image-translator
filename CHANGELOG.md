@@ -1,5 +1,18 @@
 # Changelogs
 
+### 2023-11-11
+
+1. Added new OCR model `48px`
+
+### 2023-05-08
+
+1. Added [4x-UltraSharp](https://mega.nz/folder/qZRBmaIY#nIG8KyWFcGNTuMX_XNbJ_g) upscaler
+
+### 2023-04-30
+
+1. Countless bug fixes and refactor
+2. Add [CRAFT](https://github.com/clovaai/CRAFT-pytorch) detector, enable by `--detector craft`
+
 ### 2022-06-15
 
 1. Added New inpainting model LaMa MPE by [dmMaze](https://github.com/dmMaze) and set as default

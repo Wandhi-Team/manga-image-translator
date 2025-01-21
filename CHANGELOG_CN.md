@@ -1,5 +1,18 @@
 # 更新日志 (中文)
 
+### 2023-11-11
+
+1. 添加了新的OCR模型`48px`
+
+### 2023-05-08
+
+1. 添加了[4x-UltraSharp](https://mega.nz/folder/qZRBmaIY#nIG8KyWFcGNTuMX_XNbJ_g)超分辨率
+
+### 2023-04-30
+
+1. 无数bug修复和重构
+2. 添加了[CRAFT](https://github.com/clovaai/CRAFT-pytorch)文本检测器，使用`--detector craft`启用
+
 ### 2022-06-15
 
 1. 增加了来自[dmMaze](https://github.com/dmMaze)的LaMa MPE图像修补模型
